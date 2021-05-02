@@ -1,0 +1,46 @@
+div{
+    height:200px;
+    width: 200px;
+    background-color: red;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    overflow: hidden;
+    float:left;
+    overflow: scroll;
+
+}
+section{
+    height:200px;
+    width: 200px;
+    background-color: green;
+    margin: 20px 10px 20px 10px;
+    padding: 20px;
+    overflow: hidden;
+    float:left;
+    overflow: scroll;
+}
+.apple{
+    background-color: yellow;
+    
+
+}
+.orange{
+    
+    background-color: rgb(189, 15, 15);
+}
+.mango{
+    
+    background-color: rgb(18, 199, 108);
+}
+.litchi{
+    
+    background-color: pink;
+}
+.watermelon{
+   
+    background-color: blue;
+}
+.jackfruit{
+    
+    background-color: orange ;
+}
